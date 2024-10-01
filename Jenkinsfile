@@ -1,5 +1,5 @@
 pipeline{
-agent any  // dev Server
+agent any  // Test Servers
 
 stages{
 
